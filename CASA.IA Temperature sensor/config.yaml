@@ -1,0 +1,4 @@
+name: 'CASA.IA Temperature sensor'
+packageKey: 'casaia-temperature'
+permissions:
+  zigbee: {}

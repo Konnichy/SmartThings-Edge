@@ -1,0 +1,6 @@
+zigbeeManufacturer:
+  - id: "CASA.IA/CTHS317ET"
+    manufacturer: CASAIA
+    model: CTHS317ET
+    deviceProfileName: temperature-sensor
+    deviceLabel: CASA.IA CTHS317ET
