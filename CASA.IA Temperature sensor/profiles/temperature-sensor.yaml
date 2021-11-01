@@ -7,4 +7,4 @@ components:
   - id: battery
     version: 1
   categories:
-  - name: Light
+  - name: Thermostat
