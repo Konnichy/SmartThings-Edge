@@ -19,6 +19,7 @@ local defaults = require "st.zigbee.defaults"
 local zigbee_temperature_sensor_driver_template = {
   supported_capabilities = {
     capabilities.temperatureMeasurement,
+    capabilities.relativeHumidityMeasurement,
     capabilities.battery,
   },
   lifecycle_handlers = {
