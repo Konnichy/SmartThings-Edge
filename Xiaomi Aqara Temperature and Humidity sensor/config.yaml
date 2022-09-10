@@ -1,4 +1,0 @@
-name: 'Xiaomi Aqara Temperature and Humidity sensor'
-packageKey: 'aqara-temperaturehumidity'
-permissions:
-  zigbee: {}

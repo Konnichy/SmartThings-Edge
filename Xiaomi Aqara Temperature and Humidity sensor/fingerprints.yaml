@@ -1,6 +1,0 @@
-zigbeeManufacturer:
-  - id: "Aqara/TemperatureHumidity"
-    manufacturer: LUMI
-    model: lumi.weather
-    deviceProfileName: temperature-humidity-sensor
-    deviceLabel: Xiaomi Aqara Temperature and Humidity sensor
