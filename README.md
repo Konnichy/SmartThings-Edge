@@ -8,7 +8,7 @@ SmartThings Edge is still in beta status, and only recommended to developers and
 
 ## Install/uninstall via the web UI
 
-Enroll, install, uninstall and unenroll via https://api.smartthings.com/invitation-web/accept?id=00770d41-65e6-4110-949d-f19d6df139e8.
+Enroll, install, uninstall and unenroll via https://bestow-regional.api.smartthings.com/invite/OzMgOZvo18M9.
 
 
 ## Install/uninstall with SmartThings CLI
