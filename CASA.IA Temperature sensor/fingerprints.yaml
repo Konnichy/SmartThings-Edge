@@ -4,3 +4,8 @@ zigbeeManufacturer:
     model: CTHS317ET
     deviceProfileName: temperature-sensor
     deviceLabel: CASA.IA Temperature sensor
+  - id: "OWON/THS317-ET"
+    manufacturer: OWON
+    model: THS317-ET
+    deviceProfileName: temperature-sensor
+    deviceLabel: OWON Temperature sensor
